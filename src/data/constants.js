@@ -11,7 +11,7 @@ export const Bio = {
    " I'm a passionate Computer Science student and aspiring Software Development Engineer (SDE). I love solving complex problems through code and am deeply interested in Data Structures and Algorithms (DSA). Beyond this, I enjoy bringing ideas to life through real-world web projects that blend logic, creativity, and impact. I’m always eager to learn, build, and grow — one challenge at a time.",
   github: "https://github.com/Piratedpilot",
   resume:
-    "https://drive.google.com/file/d/1txFKZD3LNIXMc329jD9c995AU8LItOXK/view?usp=drive_link",
+    "https://drive.google.com/file/d/1fyz0UvT8JdNlvpWuKPcY-iLQ0m3x2qgt/view?usp=drive_link",
   linkedin: "https://www.linkedin.com/in/akul-yadav-1832b0258/",
   twitter: "https://twitter.com/RishavChanda",
   insta: "https://www.instagram.com/extremely_osm/",
